@@ -1,0 +1,5 @@
+abstract class BottomNavigationState{}
+class BottomNavigationInit extends BottomNavigationState{}
+class BottomNavigationChangeBottom extends BottomNavigationState{}
+class BottomNavigationChangFilter extends BottomNavigationState{}
+class BannerDeatilsChange extends BottomNavigationState{}
